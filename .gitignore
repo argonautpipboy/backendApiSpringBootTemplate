@@ -1,0 +1,16 @@
+# backend:
+
+##########################
+## 		STS				##
+##########################
+.mvn/*
+.settings/*
+.vagrant/*
+target/*
+.classpath
+.project
+/target/
+*.jar
+api.iml
+/.idea/*
+backendApiSpringBootTemplate.iml
